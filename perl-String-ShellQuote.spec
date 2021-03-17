@@ -6,7 +6,7 @@
 #
 Name     : perl-String-ShellQuote
 Version  : 1.04
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-1.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-1.04.tar.gz
 Source1  : https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-1.04.tar.gz.sig
@@ -114,4 +114,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/String/ShellQuote.pm
+/usr/lib/perl5/vendor_perl/5.32.1/String/ShellQuote.pm
