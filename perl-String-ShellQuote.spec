@@ -6,7 +6,7 @@
 #
 Name     : perl-String-ShellQuote
 Version  : 1.04
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-1.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-1.04.tar.gz
 Source1  : https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-1.04.tar.gz.sig
